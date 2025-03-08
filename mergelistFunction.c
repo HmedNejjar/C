@@ -41,8 +41,3 @@ LNode* mergeTwoList(LNode* list1, LNode* list2)
     return merged->next;
 
 }
-
-int main (void)
-{
-    LNode
-}
